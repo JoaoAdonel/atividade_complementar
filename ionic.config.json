@@ -1,0 +1,7 @@
+{
+  "name": "atividade_complementar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
